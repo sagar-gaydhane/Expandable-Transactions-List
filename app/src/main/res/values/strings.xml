@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Expandable Transactions</string>
+    <string name="mid_title_format">Mid %1$d</string>
+    <string name="tid_title_format">Tid %1$d</string>
+    <string name="narration_format">Narration: %1$d</string>
+    <plurals name="tid_count">
+        <item quantity="one">%1$d Tid</item>
+        <item quantity="other">%1$d Tids</item>
+    </plurals>
+    <plurals name="entry_count">
+        <item quantity="one">%1$d Entry</item>
+        <item quantity="other">%1$d Entries</item>
+    </plurals>
+</resources>
